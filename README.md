@@ -1,4 +1,4 @@
-Responsive christmas website by CarpoolVenom (Practice Tutorial)
+Responsive movies website by CarpoolVenom (Practice Tutorial)
 
 Youtube Link: https://www.youtube.com/watch?v=dyGO7vQw3xM
 

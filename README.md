@@ -1,6 +1,6 @@
-Responsive movies website by CarpoolVenom (Practice Tutorial)
+Responsive Movie Website by CarpoolVenom (Clone Tutorial)
 
-Youtube Link: https://www.youtube.com/watch?v=dyGO7vQw3xM
+YouTube Link: https://www.youtube.com/watch?v=dyGO7vQw3xM
 
 ![image](https://github.com/user-attachments/assets/20be0fae-0d8e-479b-b2ff-6bf014473fd7)
 ![image](https://github.com/user-attachments/assets/8dc07d1d-ea42-46b3-86bf-75b0187e0807)
